@@ -22,7 +22,9 @@ print("your Name is : " , b)        # your Name is :  Nabil
 # Typecasting
 # Converting data type from float to int / str to int or any other things
 
-age = int(input())                  # int(input(" Your Age : "))
-weight = float(input())
-print(type(age))
-print(type(weight))
+age = int(input())                  # 10
+weight = float(input())             # 2.563
+new_weight = int(weight)
+print(type(age))                    # 10
+print(type(weight))                 # 2.563
+print(type(new_weight))             # 2
