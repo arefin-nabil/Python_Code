@@ -46,3 +46,12 @@ for i in range(5):
     for j in range(i+1):
         print(chr(97+i), end="")
     print()
+
+
+
+bazarer_List=[["Alu","Peyaj","Onno shobji"],[4,"hali kola", 2,"Kg peyara"],
+              ["burger", 2.365, -32.62],["Misty", "laddu", 5, 3.550]]\
+            
+for bag in bazarer_List:
+    for item in bag:
+        print(item) 
