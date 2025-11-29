@@ -1,21 +1,22 @@
-StudentID,FullName,CompletionStatus,EnrollmentDate,FinishedDate,Instructor,Location,Total Marks
-PH0001,Alif Rahman,Completed,2024-09-01,2024-12-23,Ms. Salma,Khulna,300
-PH0002,Fatima Akhter,Completed,2024-08-11,2024-11-07,Mr. Karim,Dhaka,271
-PH0003,Imran Hossain,Completed,2024-05-08,2024-08-08,Ms. Salma,Dhaka,269
-PH0004,Jannatul Ferdous,Completed,2024-07-05,2024-09-23,Mr. Karim,Khulna,270
-PH0005,Kamal Uddin,Completed,2024-02-01,2024-04-17,Mr. David,Sylhet,254
-PH0006,Laila Begum,Completed,2024-09-07,2024-12-31,Mr. David,Khulna,272
-PH0007,Mahmudul Hasan,Completed,2024-06-07,2024-07-20,Mr. David,Chattogram,249
-PH0008,Nadia Islam,Completed,2024-03-22,2024-05-01,Ms. Salma,Khulna,246
-PH0009,Omar Faruq,Completed,2024-02-12,2024-06-08,Mr. Karim,Dhaka,291
-PH0010,Priya Sharma,Completed,2024-06-19,2024-08-19,Mr. David,Dhaka,286
-PH0011,Rahim Sheikh,Completed,2024-03-14,2024-06-11,Mr. Karim,Sylhet,283
-PH0012,Sadia Chowdhury,Completed,2024-08-04,2024-10-25,Mr. Karim,Sylhet,266
-PH0013,Tanvir Ahmed,Completed,2024-06-07,2024-08-03,Mr. David,Dhaka,248
-PH0014,Urmi Akter,Completed,2024-01-04,2024-03-23,Mr. David,Sylhet,285
-PH0015,Wahiduzzaman,Completed,2024-02-22,2024-05-16,Mr. David,Rajshahi,291
-PH0016,Ziaur Rahman,Completed,2024-03-23,2024-06-21,Ms. Salma,Rajshahi,234
-PH0017,Afsana Mimi,Completed,2024-01-18,2024-03-16,Mr. David,Khulna,236
-PH0018,Babul Ahmed,Completed,2024-06-23,2024-09-20,Mr. David,Dhaka,278
-PH0019,Faria Rahman,Completed,2024-04-19,2024-08-17,Mr. Karim,Sylhet,277
-PH0020,Tariq Hasan,Completed,2024-07-21,2024-10-11,Mr. Karim,Khulna,253
+StudentID,FullName,DS marks,Algo marks,Python marks,CompletionStatus,EnrollmentDate,Instructor,Location
+PH0001,Alif Rahman,59,59,88,Completed,9/1/2024,Ms. Salma,Khulna
+PH0002,Fatima Akhter,98,98,,Completed,8/11/2024,Mr. Karim,Dhaka
+PH0003,Imran Hossain,85,85,69,Completed,5/8/2024,Ms. Salma,Dhaka
+PH0004,Jannatul Ferdous,75,75,65,Completed,7/5/2024,Mr. Karim,Khulna
+PH0005,Kamal Uddin,69,69,89,Completed,2/1/2024,Mr. David,Sylhet
+PH0006,Laila Begum,88,88,84,Completed,9/7/2024,Mr. David,Khulna
+PH0007,Mahmudul Hasan,82,82,76,Completed,6/7/2024,Mr. David,Chattogram
+PH0008,Nadia Islam,,,79,Completed,3/22/2024,Ms. Salma,Khulna
+PH0009,Omar Faruq,77,77,92,Completed,2/12/2024,Mr. Karim,Dhaka
+PH0010,Priya Sharma,83,83,94,Completed,6/19/2024,Mr. David,Dhaka
+PH0011,Rahim Sheikh,91,91,,Completed,3/14/2024,Mr. Karim,Sylhet
+PH0012,Sadia Chowdhury,,,69,Completed,8/4/2024,Mr. Karim,Sylhet
+PH0013,Tanvir Ahmed,72,72,51,Completed,6/7/2024,Mr. David,Dhaka
+PH0014,Urmi Akter,65,65,83,Completed,1/4/2024,Mr. David,Sylhet
+PH0015,Wahiduzzaman,70,70,96,Completed,2/22/2024,Mr. David,Rajshahi
+PH0016,Ziaur Rahman,89,89,79,Completed,3/23/2024,Ms. Salma,Rajshahi
+PH0017,Afsana Mimi,86,86,84,Completed,1/18/2024,Mr. David,Khulna
+PH0018,Babul Ahmed,98,98,63,Completed,6/23/2024,Mr. David,Dhaka
+PH0019,Faria Rahman,92,92,90,Completed,4/19/2024,Mr. Karim,Sylhet
+PH0020,Tariq Hasan,80,80,87,Completed,7/21/2024,Mr. Karim,Khulna
+,,,,,,,,
